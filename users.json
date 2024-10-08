@@ -1,0 +1,22 @@
+{
+    "45.169.184.194": {
+        "name": "Gabriel Silva",
+        "plan": "Premium",
+        "isBlacklist": false
+    },
+    "192.168.1.11": {
+        "name": "João Souza",
+        "plan": "Free",
+        "isBlacklist": false
+    },
+    "192.168.1.12": {
+        "name": "Maria Oliveira",
+        "plan": "Basic",
+        "isBlacklist": true
+    },
+    "192.168.1.13": {
+        "name": "Carlos Pereira",
+        "plan": "Standard",
+        "isBlacklist": false
+    }
+}
